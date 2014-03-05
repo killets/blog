@@ -1,0 +1,13 @@
+auto: true
+
+
+encoding: utf-8
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: KillEts.life
+url: https://github.com/killets/
+feed: /atom.xml
+author_info: <a href="https://github.com/killets/">killets</a>
