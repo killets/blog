@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      我为什么写博客？
+title:      怎样有效处理多任务？
 category: blog
-description: 写博客这个这么古老的行为，还有必要拿出来说吗，我看有。
+description: 好吧，我又转载了。
 ---
 
 怎样有效处理多任务？（转载）
