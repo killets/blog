@@ -228,7 +228,7 @@ description: 是的，20多岁，我们急什么。回想自己过去的三年�
 
 所以，我想说，人生，只要方向对头，就不怕走的慢。慢一点，也许成功回来的晚一点，但更能保证成功的品质；慢一点，也许不会那么早到达终点，但亦不会因太累或太急躁而半途而废。你说呢？
 
-![](/life/images/bieji/life-lessons-too-late.jpg)
+![](../images/bieji/life-lessons-too-late.jpg)
 
 最好的成长，就是过好当下每一刻
 
