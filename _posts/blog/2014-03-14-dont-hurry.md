@@ -14,7 +14,7 @@ description: 是的，20多岁，我们急什么。回想自己过去的三年�
 
 成长，真有你想象的那样迫切？——转自雅虎《另一种活法》
 
-![](/life/images/bieji/wait.jpg)
+![](../life/images/bieji/wait.jpg)
 
 ##一、别急，千万别急
 
@@ -69,7 +69,7 @@ description: 是的，20多岁，我们急什么。回想自己过去的三年�
 
 去哪里，不重要。
 
-![](/life/images/bieji/dream.jpg)
+![](../life/images/bieji/dream.jpg)
 
 ##三、为什么要让人生画地为牢
 
@@ -160,7 +160,7 @@ description: 是的，20多岁，我们急什么。回想自己过去的三年�
 
 做一件喜欢的事难道不是做这件事最好的回报吗？正如写作是写作的回报，画画是画画的酬劳。
 
-![](/life/images/bieji/life.jpg)
+![](../images/bieji/life.jpg)
 
 ##六、成长一个时辰一个时辰熬出来的
 
