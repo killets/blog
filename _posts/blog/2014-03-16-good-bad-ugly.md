@@ -5,7 +5,7 @@ category: blog
 description: 未见宏大的场面，为何赢得时光的眷顾，1966年上映，排名IMDb Top6。
 ---
 
-![](http://img5.douban.com/view/photo/raw/public/p956288518.jpg)
+![](../images/movies/good-ugly.jpg)
 
 
 >故事名字叫： The good, the bad and the ugly.
