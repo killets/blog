@@ -10,9 +10,9 @@ description: 许久没有如此玩一场，还是跟熟悉的人.
 
 端午节，游恩施州
 
-![](../images/enshi/IMG_5283.jpg)
+![](../images/enshi/IMG_5283.JPG)
 
-![](../images/enshi/IMG_5285.jpg)
+![](../images/enshi/IMG_5285.JPG)
 
 ![](../images/enshi/IMG_5293.jpg)
 
