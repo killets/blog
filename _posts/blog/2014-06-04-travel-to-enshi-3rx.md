@@ -14,20 +14,20 @@ description: 许久没有如此玩一场，还是跟熟悉的人.
 
 ![](../images/enshi/IMG_5285.JPG)
 
-![](../images/enshi/IMG_5293.jpg)
+![](../images/enshi/IMG_5293.JPG)
 
-![](../images/enshi/IMG_5323.jpg)
+![](../images/enshi/IMG_5323.JPG)
 
-![](../images/enshi/IMG_5441.jpg)
+![](../images/enshi/IMG_5441.JPG)
 
-![](../images/enshi/IMG_5446.jpg)
+![](../images/enshi/IMG_5446.JPG)
 
-![](../images/enshi/IMG_5483.jpg)
+![](../images/enshi/IMG_5483.JPG)
 
-![](../images/enshi/IMG_5485.jpg)
+![](../images/enshi/IMG_5485.JPG)
 
-![](../images/enshi/IMG_5486.jpg)
+![](../images/enshi/IMG_5486.JPG)
 
-![](../images/enshi/IMG_5498.jpg)
+![](../images/enshi/IMG_5498.JPG)
 
-![](../images/enshi/IMG_5499.jpg)
+![](../images/enshi/IMG_5499.JPG)
