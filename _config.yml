@@ -1,4 +1,4 @@
-baseurl: /life
+baseurl: /blog
 auto: true
 
 
@@ -8,7 +8,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: KillEts.life
+title: KillEts.Blog
 url: https://github.com/killets/
 feed: /atom.xml
 author_info: <a href="https://github.com/killets/">killets</a>
