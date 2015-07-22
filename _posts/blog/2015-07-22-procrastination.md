@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      《拖延心理学》笔记*推荐
+title:      《拖延心理学》笔记
 category: blog
 description: “成功是为了学习和进步，还是为了证明你聪明？”
 ---
