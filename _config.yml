@@ -10,6 +10,6 @@ permalink: /:title
 
 title: KillEts.Blog
 url: http://killets.github.io/blog/
-baseurl: http://killets.github.io/blog
+baseurl: http://killets.github.io/blog/
 feed: /atom.xml
 author_info: <a href="http://killets.github.io/blog/">killets</a>
