@@ -8,7 +8,6 @@ layout: home
             <li><a href="{{ site.baseurl }}/"><span>Blog</span></a></li>
             <li class="on" style="text-align:center"><a href="{{ site.baseurl }}/project"><span>Project</span></a></li>
             <li style="text-align:right"><a href="{{ site.baseurl }}/opinion"><span>Opinion</span></a></li>
-            
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
