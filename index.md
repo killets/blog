@@ -6,8 +6,8 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="{{ site.baseurl }}/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="{{ site.baseurl }}/opinion"><span>Opinion</span></a></li>
             <li style="text-align:right"><a href="{{ site.baseurl }}/project"><span>Project</span></a></li>
+            <li style="text-align:center"><a href="{{ site.baseurl }}/opinion"><span>Opinion</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
