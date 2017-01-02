@@ -9,4 +9,8 @@ category: blog
 
 ![](../images/IMG_3363.JPG)
 
+2016 DEC 31 Time Square
+
 ![](../images/IMG_3426.JPG)
+
+2017 JAN 1 Central Park
